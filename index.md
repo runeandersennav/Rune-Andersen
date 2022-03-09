@@ -39,17 +39,29 @@ Oslo, Norway
             Aug 2020 - Jun 2021
     - Bachelor course, Change management, team and Coaching  
             Aug 2019 - Jun 2020
+    - Bachelor's degree, Bank and finance  
+            Aug 1999 - Jun 2001       
         
+### Licenses & certifications
+- **Prince2 Practitioner Certificate in Project Management**  
+        Issued May 2016 · No Expiration DateIssued   
+        Credential ID GR634023731RA
+
+- **Prince2 Foundation Certificate in Project Management**  
+            Issued Jan 2016 · No Expiration DateIssued  
+            Credential ID GR633035057RA
+
+- **ISO/IEC 27001:2013 ISMS Lead Implementer**
+            Issued Nov 2013 · No Expiration Date   
+            Credential ID 171113-01  
+
+- **Certified ScrumMaster®** 
+            Issued Feb 2017 · Expired Feb 2019  
+            Credential ID Certificant ID: 000616942  
 
 
+<br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
