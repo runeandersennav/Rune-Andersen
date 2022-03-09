@@ -1,6 +1,8 @@
 ## Rune Andersen
 
-Kontorsjef NAV IT forretningsplattformer og standardprodukter 
+Kontorsjef NAV IT forretningsplattformer og standardprodukter   
+
+
 ### Experience
 - NAV  
 Oslo, Norway
@@ -21,10 +23,18 @@ Oslo, Norway
             Mar 2011 - Apr 2012
     - Førstekonsulent 
             Mar 2009 - Mar 2011
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+---
 
-
-
+For mer infomasjon se: 
+[![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/)
 
 
 
