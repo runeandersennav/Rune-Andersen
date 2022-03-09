@@ -53,7 +53,7 @@ Oslo, Norway
 
 ---
 
-For mer infomasjon se: 
+For mer informasjon se: 
 [![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/)
 
 
