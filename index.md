@@ -1,12 +1,10 @@
-## Rune Andersen
-
-Kontorsjef NAV IT forretningsplattformer og standardprodukter   
+   
 
 
 ### Experience
 - **NAV IT**  
 Oslo, Norway
-    - Kontorsjef  
+    - Kontorsjef forretningsplattformer og standardprodukter  
             Mar 2021 - p
     - Teamlead  
             Jan 2017 - Mar 2021
