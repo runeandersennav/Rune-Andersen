@@ -24,3 +24,4 @@ Oslo, Norway
     Lillestrøm, Norway
      - Finansrådgiver  
             Apr 2004 - Mar 2007
+# [Back](/index.md)
