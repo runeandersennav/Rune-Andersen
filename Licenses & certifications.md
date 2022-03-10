@@ -13,4 +13,4 @@
 - **Certified ScrumMaster®** 
             Issued Feb 2017 · Expired Feb 2019  
             Credential ID Certificant ID: 000616942  
- # [Back](/index.md)   
+# [Back](/index.md)   

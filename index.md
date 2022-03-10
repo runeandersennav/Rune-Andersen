@@ -9,7 +9,7 @@
 <br>
 <br>
       
-### [Licenses & certifications](/Licenses%20%26%20certifications.md)
+### [Licenses & certifications](/Licenses & certifications.md)
 <br>
 <br>
 
