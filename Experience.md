@@ -1,3 +1,5 @@
+<body style="background-color:water;">
+
 # [&larr;](/index.md) 
 - **NAV IT**  
 Oslo, Norway

@@ -1,3 +1,5 @@
+<body style="background-color:water;">
+
 # [&larr;](/index.md) 
 - **BI Norwegian Business School**  
     - <span style="color:green">Master course, Change management  
