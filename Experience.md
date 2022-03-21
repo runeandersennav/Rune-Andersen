@@ -1,21 +1,21 @@
 # [&larr;](/index.md) 
 - **NAV IT**  
 Oslo, Norway
-    - Kontorsjef forretningsplattformer og standardprodukter  
+    - <span style="color:green"> Kontorsjef forretningsplattformer og standardprodukter  
             Mar 2021 - p
         <details>
         <summary>Detaljer</summary>
         IT forretningsplattformer og standardprodukter 
         </details>
 
-    - Teamlead  
+    - <span style="color:green"> Teamlead  
             Jan 2017 - Mar 2021
         <details>
         <summary>Detaljer</summary>
         Test
         </details>
 
-    - Project Manager   
+    - <span style="color:green">Project Manager   
             Aug 2015 - Jan 2017
         <details>
         <summary>Detaljer</summary>
@@ -24,28 +24,28 @@ Oslo, Norway
 
 - **SPK**  
 Oslo, Norway
-    - Lønnsystem leverandør ansvarlig  
+    - <span style="color:green"> Lønnsystem leverandør ansvarlig  
             Jan 2015 - Aug 2015
         <details>
         <summary>Detaljer</summary>
         Test
         </details>
 
-    - Systemansvarlig
+    - <span style="color:green"> Systemansvarlig
             April 2012 - Jan 2015
         <details>
         <summary>Detaljer</summary>
         Test
         </details>
 
-    - Bedriftsrådgiver  
+    - <span style="color:green"> Bedriftsrådgiver  
             Mar 2011 - Apr 2012
         <details>
         <summary>Detaljer</summary>
         Test
         </details>
 
-    - Førstekonsulent   
+    - <span style="color:green"> Førstekonsulent   
             Mar 2009 - Mar 2011  
         <details>
         <summary>Detaljer</summary>
@@ -55,7 +55,7 @@ Oslo, Norway
 
 - **Fornebubanken**  
     Oslo, Norway
-    - Bedriftsrådgiver  
+    - <span style="color:green"> Bedriftsrådgiver  
             Apr 2007 - Mar 2009
         <details>
         <summary>Detaljer</summary>
@@ -63,9 +63,9 @@ Oslo, Norway
         </details>
 
 
-- **DNB**
+- **DNB**  
     Lillestrøm, Norway
-     - Finansrådgiver  
+     - <span style="color:green">Finansrådgiver  
             Apr 2004 - Mar 2007
         <details>
         <summary>Detaljer</summary>
