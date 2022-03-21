@@ -1,5 +1,3 @@
-<body style="background-color:water;">
-
 # [&larr;](/index.md)
 
 - **Prince2 Practitioner Certificate in Project Management**  
@@ -30,4 +28,5 @@
 <br>
 
 # [&larr;](/index.md)
+
 
