@@ -5,64 +5,56 @@ Oslo, Norway
   - <span style="color:green"> Kontorsjef forretningsplattformer og standardprodukter  
             Mar 2021 - p
         <details>
-        <summary>Detaljer</summary>
         Personalleder for et kontor som har ansvar for å ivareta kompetanse og kapasitet iht. utvikling og vedlikehold av forretningsplattformer samt standardprodukter. Medarbeiderene utvikler løsninger med verktøy som Salesforce, UIPath, Tableau, AltInn, OEBS m.fl.
-        </details>
+       
 
   - <span style="color:green"> Teamlead  
             Jan 2017 - Mar 2021
         <details>
-        <summary>Detaljer</summary>
         Utøve daglig ledelse, og sørge for god organisering og oppgavefordeling i teamet.
 Bidra til smidighet og fremdrift i teamet. Bygge velfungerende team med gode tilbakemeldingssløyfer som bidrar til at teamet leverer enklere, bedre og raskere. Legge til rette for kontinuerlig læring og støtte opp om en kultur hvor det er lov å feile. Sikre at teamet har riktig kompetanse og kapasitet. Pådriver for at teamet jobber etter etablerte metodikker, og bidra til at teamet tester ut forbedringer og ser på nye måter å jobbe på. Sikre gode beslutninger og tydelige prioriteringer sammen med produkteier og teamet.
 Sørge for at teamet tar eierskap til hvilke strategiske mål teamet skal nå, og den verdien teamet skal gi gjennom å etablere visjon og målbilde sammen med teamet.
 
-        </details>
-
+       
   - <span style="color:green">Project Manager
             Aug 2015 - Jan 2017
-        <details>
-        <summary>Detaljer</summary>
+        <details>    
         Ledelse av prosjekter fra forprosjektfasen og helt til til overlevering til drift og forvaltning. Ansvarlig for Målstyring, ressursallokering, kvalitetsstyring, rapportering, budsjett og endring- og avviksledelse
-        </details>
+       
 
 - **SPK**  
 Oslo, Norway
   - <span style="color:green"> Lønnsystem leverandør ansvarlig  
             Jan 2015 - Aug 2015
         <details>
-        <summary>Detaljer</summary>
         Ansvarlig for systemet rundt innhenting av lønns og stillingsdata.
 Ansvarlig for planlegging av økt effektivitet iht. reaktivt arbeid med kundedata/masterdata – løpende oppdateringer i samarbeid med resten av virksomheten
 Plan for systematisk proaktivt arbeid med kundedata ved integrering/verifisering av data mot andre register.
 Analyse arbeid iht. status på master i hoved-databasen
 Ansvarlig for å foreslå tiltak for forbedring av kundedata i hovedbasen
 Ansvarlig for å implementere aktiviteter for korrigering av feil i kundedata/master data Analyser og statusrapporter på data konsistens på tvers av virksomheten
-        </details>
+        
 
   - <span style="color:green"> Systemansvarlig
             April 2012 - Jan 2015
         <details>
-        <summary>Detaljer</summary>
         Ansvarlig for systemet rundt innhenting av lønns og stillingsdata. Prosjektarbeid, kontakt ut mot lønnssystem leverandører/Altinn
 Medlem av Nettverk for Informasjonssikkerhet, NIFS (Difi)
 Medlem av Innovasjon@Altinn
 Sertifisert ISO 27001 Lead Implementer
-        </details>
+       
 
   - <span style="color:green"> Bedriftsrådgiver  
             Mar 2011 - Apr 2012
         <details>
-        <summary>Detaljer</summary>
         Rådgivning til SPK sine bedriftskunder
-        </details>
+       
 
   - <span style="color:green"> Førstekonsulent
             Mar 2009 - Mar 2011  
         <details>
-        <summary>Detaljer</summary>
         Behandling av lånesøknad
-        </details>
+        
 
 - **Fornebubanken**  
     Oslo, Norway
@@ -70,9 +62,8 @@ Sertifisert ISO 27001 Lead Implementer
             Apr 2007 - Mar 2009
 
      <details>
-        <summary>Detaljer</summary>
         Rådginving til bankens bedrifts kunder
-        </details>
+
 
 - **DNB**  
     Lillestrøm, Norway
@@ -80,9 +71,8 @@ Sertifisert ISO 27001 Lead Implementer
             Apr 2004 - Mar 2007  
     
     <details>
-        <summary>Detaljer</summary>
         Rådgivning innen plasserings produkter
-        </details>
+        
 
 ---
 <br>
