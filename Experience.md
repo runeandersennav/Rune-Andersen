@@ -62,7 +62,7 @@ Sertifisert ISO 27001 Lead Implementer
             Apr 2007 - Mar 2009
 
      <details>
-        Rådginving til bankens bedrifts kunder
+        Rådgivning til bankens bedrifts kunder
 
 
 - **DNB**  
