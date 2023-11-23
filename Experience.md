@@ -4,7 +4,7 @@
 - **Sparebank 1 Utvikling**  
 Oslo, Norway
   - <span style="color:green"> Tekninsk prosjektleder 
-            Oct 2022 - Jan 2023
+            Jan 202 - Present day
         <details>
         Senior prosjektleder innen digital transformasjon og større endringsprosjekter. Bistår virksomheter i prosessen med å transformere forretningsmodeller, produkter, tjenester og forretningsprosesser. 
 Implementere bruken av ny teknologi for å forbli konkurransedyktig i dagens marked. 
