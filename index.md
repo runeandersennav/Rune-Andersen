@@ -1,4 +1,4 @@
-[![rune!](/Bilder/rune.jfif)]
+![rune!](/Bilder/rune.jfif)
 
 # [Experience](/Experience.md)
 
