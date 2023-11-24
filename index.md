@@ -1,3 +1,6 @@
+![Rune Andersen!](/Bilder/rune2.jfij) [![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/)
+
+
 # [Experience](/Experience.md)
 
 <br>
