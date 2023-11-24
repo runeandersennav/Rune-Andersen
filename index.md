@@ -1,3 +1,5 @@
+![Rune Andersen!](/Bilder/rune.jfif)
+
 # [Experience](/Experience.md)
 
 <br>
