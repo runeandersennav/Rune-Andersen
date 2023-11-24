@@ -1,5 +1,6 @@
-Kolonne 1 | Kolonne 2 | Kolonne 3 |
-:——- | :——: | ——: |
+<div style="display: flex; align-items: center;">
+  <img src="/Bilder/rune.jfif" alt="Rune Andersen" style="width: 50%; margin-right: 20px;">
+  <p>
 
 ![rune!](/Bilder/rune.jfif)  
 
@@ -22,5 +23,6 @@ Kolonne 1 | Kolonne 2 | Kolonne 3 |
 
 [![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/) 
 
-
+</p>
+</div>
 ---
