@@ -2,7 +2,7 @@
   <img src="/Bilder/rune.jfif" alt="Rune Andersen" width="100" height="100" style="margin-right: 20px;">
   <div>
     
-    ![Rune Andersen!](/Bilder/rune.jfif)
+
 
   # [Experience](/Experience.md)
 
