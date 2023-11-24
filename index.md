@@ -1,4 +1,7 @@
-![rune!](/Bilder/rune.jfif) | 
+Kolonne 1 | Kolonne 2 | Kolonne 3 |
+:——- | :——: | ——: |
+
+![rune!](/Bilder/rune.jfif)  
 
 # [Experience](/Experience.md)
 
@@ -17,7 +20,7 @@
 <br>
 <br>
 
-[![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/) |
+[![Logo!](/Bilder/Logo.png)](https://www.linkedin.com/in/rune-andersen-9837a733/) 
 
 
 ---
