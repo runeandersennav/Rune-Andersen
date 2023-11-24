@@ -1,9 +1,7 @@
 <div style="display: flex; align-items: center;">
   <img src="/Bilder/rune.jfif" alt="Rune Andersen" style="width: 25%; margin-right: 20px;">
   <p>
-
-![rune!](/Bilder/rune.jfif)  
-
+    
 # [Experience](/Experience.md)
 
 <br>
